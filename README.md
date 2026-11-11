@@ -1,36 +1,50 @@
-## Olá eu sou o André, adoro Programação, Tecnologia e Games!!!
-<div align="rigth">
-<a href="https://github.com/andrepedagogico">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrepedagogico&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepedagogico&layout=compact&langs_count=7&theme=great-gatsby"/>
-  
- 
-</div>
+# André da Silva Santana
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Rafa-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img align="center" alt="Rafa-aftereffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-  <img align="center" alt="Rafa-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" alt="Rafa-Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
+**Analista de Dados & Automação** · São Paulo, Brasil
 
-</div>
-  
-  ##
- 
-<div> 
-<a href="https://www.behance.net/andrsantana" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/profile.php?id=100000073824127" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/UCpBwuvVv62nVbUayrxywkSA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/andresilvastn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:andre.pedagogico@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/andr%C3%A9-da-silva-santana-4a77a4a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Transformo dados operacionais em decisões. Atuo em um provedor de internet (telecom/ISP) construindo painéis de BI, integrações e automações sobre o ERP, o atendimento e a operação de campo, do banco de dados até a tela do gestor.
+
+---
+
+### Áreas de atuação
+
+- **Business Intelligence:** modelagem semântica e relatórios em Power BI (PBIP, TMDL e DAX), com indicadores de vendas, base ativa, churn e curva ABC.
+- **Engenharia e análise de dados:** SQL avançado em MySQL/MariaDB, cruzamento de bases, regras de negócio e qualidade de dados.
+- **Automação de processos:** fluxos no n8n que integram APIs, bancos de dados, Google Sheets e Telegram, com rotinas agendadas e cache.
+- **Painéis web de gestão:** dashboards em HTML, JavaScript e Chart.js, com mapas em Leaflet, atualizados em tempo quase real.
+- **Governança:** acessos somente leitura, dados anonimizados e conformidade com a LGPD.
+
+### Projetos de destaque
+
+| Projeto | O que entrega |
+|---|---|
+| **Central de Atendimento** | Painel de atendimento via WhatsApp para duas operações: TME, TMA, SLA, FCR, CSAT, NPS estimado e uma análise crítica que ranqueia os casos por gravidade. |
+| **Controle de Produtividade Técnica** | Produtividade das equipes de campo: retrabalho em 30 dias, comissão, consumo de materiais, calendário de ordens de serviço, mapa e alerta de chuva por cidade. |
+| **Central Comercial** | Vendas, cancelamentos e churn das duas bases, consultados ao vivo. |
+| **Situação da Empresa** | Rotina diária que consolida clientes ativos, cancelados, reativados e inadimplentes, deduplicando clientes presentes nas duas bases. |
+| **BI comercial em Power BI** | Modelo semântico versionado em git, com vendas, churn, rankings e curva ABC 80-20. |
+
+> Projetos corporativos com código e dados privados. Detalhes técnicos podem ser apresentados mediante contato.
+
+### Stack
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-da-silva-santana-4a77a4a2/)
+[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:andre.pedagogico@hotmail.com)
